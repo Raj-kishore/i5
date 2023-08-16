@@ -1,2 +1,2 @@
-# i5 aka High Five
+# i5 
 Exploration of data transfer capabilities 
